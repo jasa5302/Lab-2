@@ -1,0 +1,45 @@
+---
+title: "Lab 2"
+author: "Jasmine Sanchez, Erin Omyer, Adam Hayes, Richard Park"
+date: '2019-01-23'
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## TEAM NAME
+
+*(INSERT Photo Here)
+
+Main Goal: 
+
+
+```{r cars}
+summary(cars)
+```
+
+## About Me (Jasmine Sanchez)
+
+![Older Sister](file:///C:/Users/sanch/OneDrive/Pictures/Photo Alex.JPG)
+
+![Little Brother](file:///C:/Users/sanch/OneDrive/Pictures/Photo Niko.JPG)
+
+* I would like to know what the difference in Educated voters, versus non-Educated voters within the US is, and how that fluctuates depending on where the voters live, as well as how much access they have to voting? 
+
+* Six months after graduating, I hope to have gained a full time position as a Data Statistician for a compnay. (Preferrably Arrow Electronics). Five Years after that, I hope to have gained enough insight and support to have transitioned into a leadership role within my team, then later within my division of whatever company I will be a part of. 
+
+* My greatest career accomplishment will be creating more evenly accessible platforms of data collection for varrying envrionments and communities where interpretation is clear.
+
+* Given these hopes and goals, I want to learn and understand the several ways we, as individuals process data and then interpret/communicate that information to other entities. 
+
+*Fun Fact: I have 2 Siblings, an older sister who is 21  and a younger brother who is 11. 
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
