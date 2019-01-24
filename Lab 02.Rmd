@@ -2,29 +2,18 @@
 title: "Lab 2"
 author: "Jasmine Sanchez, Erin Omyer, Adam Hayes, Richard Park"
 date: "January 23, 2019"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# About Erin Omyer
 
-## R Markdown
+![Picture taken in Seattle, WA](smiley.jpg)
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+* Non-Statistical Question: How many hours does it take for an actor/actress to memorize their lines?
+* Roughly six months after graduation, I would love to have a job with an organization that I am happy to work for, which allow myself to start a pathway into my future. Five years beyond graduation, I would hope I would be experiencing a life that is continuously enjoy. Whether that involve new friends, places, work experience, etc. 
+* I hope my greatest career accomplishment would be a career where I am continuously looking forward to what I am applying in the organization. The greatest career won't be making the most amount of money, but ensuring that I am content with my career and life that follows.
+* In Introduction to Data Science, I hope to learn the basic functions of coding in R. This will allow myself to expand further into other programming languages and accomplish cooperative communication. 
+* Lastly, an interest fact about myself is that my right ear is smaller than my left ear, so I would be called "nemo" when I was little. 
